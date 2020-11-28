@@ -1,0 +1,24 @@
+body{
+    background-color: cornsilk !important;
+}
+
+.mystyle{
+    margin-top: 60px;
+}
+
+.card{
+    border-radius: 10px;
+}
+.date{
+    margin-top: 20px;
+}
+#output{
+    color: linen;
+    width: 20%;
+    margin: auto;
+    border-radius: 80px;
+    text-align: center;
+}
+.container{
+    text-align: center;
+}
